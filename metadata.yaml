@@ -1,0 +1,34 @@
+_repo: Songs-from-the-Smoke_46264
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Patten, Simon N. (Simon Nelson)
+    birthdate: 1852
+    deathdate: 1922
+    gutenberg_agent_id: '43677'
+    url: http://www.gutenberg.org/2009/agents/43677
+covers:
+- cover_type: archival
+  image_path: 46264-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Madeleine S. (Madeleine Sweeny)
+    alias: Miller, Madeleine Sweeny
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '43684'
+    url: http://www.gutenberg.org/2009/agents/43684
+description: ''
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pittsburgh (Pa.) -- Poetry'
+title: Songs from the Smoke
+url: http://www.gutenberg.org/ebooks/46264
