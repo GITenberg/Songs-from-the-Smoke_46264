@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43684'
     url: http://www.gutenberg.org/2009/agents/43684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46264#Songs-from-the-Smoke
 gutenberg_issued: '2014-07-12'
 gutenberg_type: Text
 identifiers:
